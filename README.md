@@ -1,1 +1,1 @@
-# DR
+# Mild Diabetic Retinopathy Detection
